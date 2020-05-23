@@ -9,7 +9,9 @@ public class ClaseCarlos {
     {
 
         int a = 20;
-	System.out.println("Esta es la clase modificada" + a);
+	int b = 10;
+
+	System.out.println("Esta es la clase modificada" + (a + b) );
 
     }
 }
