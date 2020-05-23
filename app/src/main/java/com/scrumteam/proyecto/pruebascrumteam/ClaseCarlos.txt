@@ -1,0 +1,15 @@
+package com.scrumteam.proyecto.pruebascrumteam;
+
+public class ClaseCarlos {
+
+    public ClaseCarlos() {
+    }
+
+    public void metodo1Carlos()
+    {
+
+        int a = 20;
+	System.out.println("Esta es la clase modificada" + a);
+
+    }
+}
